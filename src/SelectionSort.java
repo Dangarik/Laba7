@@ -1,4 +1,4 @@
-class SelectionSort implements SortingStrategy {
+git initclass SelectionSort implements SortingStrategy {
     public void sort(int[] arr) {
         System.out.println("Метод сортування selection");
         for (int i = 0; i < arr.length - 1; i++) {
